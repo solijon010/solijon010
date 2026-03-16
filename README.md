@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solijon</h1>
-<h3 align="center">Backend Developer | Python | Telegram Bots | AI Automation</h3>
+<h3 align="center">Frontend Developer | AI Automation | IOT technology</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Telegram+Bot+Developer;AI+Automation+Builder;Backend+Engineer"/>
