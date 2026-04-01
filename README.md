@@ -16,11 +16,7 @@
 
 ---
 
-//## 🧠 Tech Stack
 
-//<p align="center">
-//<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,postgres,docker,git,github,linux,vscode"/>
-//</p>
 
 ---
 
